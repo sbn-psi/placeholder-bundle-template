@@ -1,0 +1,27 @@
+# BUNDLE_ID Pre-Archive Bundle
+
+## About
+
+The bundle_id Pre-Archive Bundle describes a package of data that has been made publicly available, but has not been fully archived into PDS.
+
+This bundle is made available in order to make it possible for this data to have a DOI, and to make it discoverable in PDS4.
+
+## Access instructions
+
+(Put the URL for the data, along with any necessary credentials here. This will overlap with access_instructions.txt, but there may be value in having a separate file, so that it will be easy to find.)
+
+## Summary of the data
+
+(Information about the data could go here)
+
+## Archiving Plan
+
+(Information about the steps needed to formally archive the data could go here)
+
+## Placeholder Lifecycle
+
+(When is the data expected to be archived? Is the data scheduled for removal from its current hosting service at any point?)
+
+## Placeholder Status
+
+As of this publication, the data is not fully ingested into PDS. Once it is ingested, a new version of this bundle will be issued with the data.
