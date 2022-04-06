@@ -1,0 +1,34 @@
+# gbo.ast.ida.gaspra Pre-Archive Bundle
+
+## About
+
+The gbo.ast.ida.gaspra Pre-Archive Bundle describes a package of data that has been made publicly available, but has not been fully archived into PDS.
+
+This bundle is made available in order to make it possible for this data to have a DOI, and to make it discoverable in PDS4.
+
+## Access instructions
+
+Until the data is archived in PDS4, the data will be available at:
+
+(https://sbn.psi.edu/pds/resource/idagaspra.html)
+
+## Summary of the data
+
+This package contains observations of the asteroids (243) Ida and (951)         
+Gaspra extracted from the holdings of the Small Bodies Node, combined         
+with observations by the Galileo mission magnetometer and solid state         
+imaging system.
+
+## Archiving Plan
+
+The data will be ingested through the Small Bodies Node's ongoing migration projects. The migration is expected to be completed by DATE.
+
+## Placeholder Lifecycle
+
+Once the PDS4 migration is complete, this bundle will be replaced with a bundle containing the data.
+
+The existing data pointed to above will not be deleted at that point.
+
+## Placeholder Status
+
+As of this publication, the data is not fully ingested into PDS. Once it is ingested, a new version of this bundle will be issued with the data.
