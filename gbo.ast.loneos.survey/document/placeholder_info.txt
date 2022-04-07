@@ -4,11 +4,11 @@
 
 The gbo.ast.loneos.survey Pre-Archive Bundle describes a package of data that has been made publicly available, but has not been fully archived into PDS.
 
-This bundle is made available in order to make it possible for this data to have a DOI, and to make it discoverable in PDS4.
+This bundle is made available to make it possible for the not-yet-archived data to be referenced by PDS LIDVID so it can be cited and discoverable.
 
 ## Access instructions
 
-Until the data is archived in PDS4, the data will be available at:
+Until the data are archived in PDS, the data will be available at:
 
 (https://sbnarchive.psi.edu/loneos/)
 
@@ -24,11 +24,11 @@ set could be archivable in PDS.
 
 ## Archiving Plan
 
-The data will be ingested through the Small Bodies Node's ongoing migration projects. The migration is expected to be completed by DATE.
+The LONEOS data is expected to be archived by DATE.
 
 ## Placeholder Lifecycle
 
-Once the PDS4 migration is complete, this bundle will be replaced with a bundle containing the data.
+Once the PDS archiving is complete, this bundle will be replaced with a bundle containing the data.
 
 The existing data pointed to above will be replaced with the archived data and will no longer be available.
 
