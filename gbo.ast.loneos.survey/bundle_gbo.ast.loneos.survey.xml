@@ -31,7 +31,7 @@
     </Time_Coordinates>
     <Primary_Result_Summary>
       <purpose>Science</purpose>
-      <processing_level>Derived</processing_level>
+      <processing_level>Raw</processing_level>
       <Science_Facets>
         <discipline_name>Small Bodies</discipline_name>
       </Science_Facets>
