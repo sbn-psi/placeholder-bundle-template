@@ -1,0 +1,37 @@
+# gbo.ast.loneos.survey Pre-Archive Bundle
+
+## About
+
+The gbo.ast.loneos.survey Pre-Archive Bundle describes a package of data that has been made publicly available, but has not been fully archived into PDS.
+
+This bundle is made available in order to make it possible for this data to have a DOI, and to make it discoverable in PDS4.
+
+## Access instructions
+
+Until the data is archived in PDS4, the data will be available at:
+
+(https://sbnarchive.psi.edu/loneos/)
+
+## Summary of the data
+
+The full SBN LONEOS data holdings are now being made available to the public 
+domain as of Sept. 15, 2020 in their unrestored and unarchived form.  There
+are no restrictions on the use of these data.  The data have no original
+documentation, non-standard FITS filenames, at least seven different
+versions of FITS headers among the image files, and numerous duplications. 
+These and other deficiencies would have to be ameliorated before the data
+set could be archivable in PDS.
+
+## Archiving Plan
+
+The data will be ingested through the Small Bodies Node's ongoing migration projects. The migration is expected to be completed by DATE.
+
+## Placeholder Lifecycle
+
+Once the PDS4 migration is complete, this bundle will be replaced with a bundle containing the data.
+
+The existing data pointed to above will be replaced with the archived data and will no longer be available.
+
+## Placeholder Status
+
+As of this publication, the data is not fully ingested into PDS. Once it is ingested, a new version of this bundle will be issued with the data.

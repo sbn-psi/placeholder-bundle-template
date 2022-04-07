@@ -1,0 +1,5 @@
+# Access Instructions for the Ida/Gaspra Bundle
+
+The current version of the Ida/Gaspra data, prior to PDS4 archiving, is available at
+
+(https://sbn.psi.edu/pds/resource/idagaspra.html)
