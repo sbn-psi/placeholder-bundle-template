@@ -1,5 +1,5 @@
-# Access Instructions for the Ida/Gaspra Bundle
+# Access Instructions for the LONEOS Bundle
 
-The current version of the Ida/Gaspra data, prior to PDS4 archiving, is available at
+The current version of the LONEOS data, prior to PDS archiving, is available at
 
-(https://sbn.psi.edu/pds/resource/idagaspra.html)
+(https://sbnarchive.psi.edu/loneos)
