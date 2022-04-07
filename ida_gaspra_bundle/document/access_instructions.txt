@@ -1,5 +1,5 @@
-# Access Instructions for the Ida/Gaspra Bundle
+# Access Instructions for the Gaspra Color Geometry Cubes Bundle
 
-The current version of the Ida/Gaspra data, prior to PDS4 archiving, is available at
+The current version of the Gaspra Color Geometry Cubes data, prior to PDS4 archiving, is available at
 
-(https://sbn.psi.edu/pds/resource/idagaspra.html)
+(https://sbn.psi.edu/review/asteroid16/gascolorgeom/)

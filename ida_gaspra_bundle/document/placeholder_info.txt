@@ -1,31 +1,36 @@
-# gbo.ast.ida.gaspra Pre-Archive Bundle
+# Gaspra Color Geometry Cubes Pre-Archive Bundle
 
 ## About
 
-The gbo.ast.ida.gaspra Pre-Archive Bundle describes a package of data that has been made publicly available, but has not been fully archived into PDS.
+The Gaspra Color Geometry Cubes Pre-Archive Bundle describes a package of data that has been made publicly available, but has not been fully archived into PDS.
 
-This bundle is made available in order to make it possible for this data to have a DOI, and to make it discoverable in PDS4.
+This bundle is made available to make it possible for the not-yet-archived data to be referenced by PDS LIDVID so it can be cited and discoverable.
 
 ## Access instructions
 
-Until the data is archived in PDS4, the data will be available at:
+Until the data are archived in PDS, the data will be available at:
 
-(https://sbn.psi.edu/pds/resource/idagaspra.html)
+(https://sbn.psi.edu/review/asteroid16/gascolorgeom/)
 
 ## Summary of the data
 
-This package contains observations of the asteroids (243) Ida and (951)         
-Gaspra extracted from the holdings of the Small Bodies Node, combined         
-with observations by the Galileo mission magnetometer and solid state         
-imaging system.
+This data set is a set of 6 ISIS image  
+cube pairs describing the surface of Gaspra as imaged in 6 different  
+filters along with the corresponding geometry angle (incidence,       
+emission, and phase) values across the surface of the image. The first
+cube contains the color observation (one filter or color per          
+backplane) and the 3 geometry angles (one angle per backplane) at the 
+resolution of the color data set. The second cube contains the 3      
+geometry angles (one angle per backplane) at the full resolution of   
+the shape file archived within the PDS.
 
 ## Archiving Plan
 
-The data will be ingested through the Small Bodies Node's ongoing migration projects. The migration is expected to be completed by DATE.
+The data will be ingested into the Small Bodies Node. The process is expected to be completed by DATE.
 
 ## Placeholder Lifecycle
 
-Once the PDS4 migration is complete, this bundle will be replaced with a bundle containing the data.
+Once the archiving is complete, this bundle will be replaced with a bundle containing the data.
 
 The existing data pointed to above will not be deleted at that point.
 
