@@ -2,15 +2,15 @@
 <?xml-model href="https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1A00.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <Product_Collection xmlns="http://pds.nasa.gov/pds4/pds/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1A00.xsd">
   <Identification_Area>
-    <logical_identifier>urn:nasa:pds:compil.ast.albedos:document</logical_identifier>
+    <logical_identifier>urn:nasa:pds:go.ast.gaspra.colorcubes:document</logical_identifier>
     <version_id>1.0</version_id>
-    <title>document collection for the gbo.ast.ida.gaspra bundle</title>
+    <title>document collection for the Gaspra Color Geometry Cubes bundle</title>
     <information_model_version>1.10.0.0</information_model_version>
     <product_class>Product_Collection</product_class>
     <Citation_Information>
-      <editor_list>Neese, C.; Raugh, A.</editor_list>
+      <editor_list>Domingue, D.</editor_list>
       <publication_year>2022</publication_year>
-      <description>This is the document collection for the gbo.ast.ida.gaspra bundle.</description>
+      <description>This is the document collection for the Gaspra Color Geometry Cubes bundle.</description>
     </Citation_Information>
     <Modification_History>
       <Modification_Detail>
@@ -26,18 +26,34 @@
       <type>Mission</type>
       <Internal_Reference>
         <lid_reference>urn:nasa:pds:context:investigation:mission.galileo</lid_reference>
-        <reference_type>bundle_to_investigation</reference_type>
+        <reference_type>collection_to_investigation</reference_type>
       </Internal_Reference>
     </Investigation_Area>
     <Observing_System>
       <Observing_System_Component>
-        <name>Literature Compilation</name>
-        <type>Literature Search</type>
+        <name>Galileo Spacecraft</name>
+        <type>Spacecraft</type>
+        <Internal_Reference>
+          <lid_reference>urn:nasa:pds:context:instrument_host:spacecraft.go</lid_reference>
+          <reference_type>collection_to_instrument_host</reference_type>
+        </Internal_Reference>
+      </Observing_System_Component>
+      <Observing_System_Component>
+        <name>Galileo Solid State Imaging System</name>
+        <type>Instrument</type>
+        <Internal_Reference>
+          <lid_reference>urn:nasa:pds:context:instrument:go.ssi</lid_reference>
+          <reference_type>collection_to_instrument</reference_type>
+        </Internal_Reference>
       </Observing_System_Component>
     </Observing_System>
     <Target_Identification>
-      <name>Multiple Asteroids</name>
+      <name>951 Gaspra</name>
       <type>Asteroid</type>
+      <Internal_Reference>
+        <lid_reference>urn:nasa:pds:context:target:asteroid.951_gaspra</lid_reference>
+        <reference_type>bundle_to_target</reference_type>
+      </Internal_Reference>
     </Target_Identification>
   </Context_Area>
   <Collection>
@@ -45,7 +61,7 @@
   </Collection>
   <File_Area_Inventory>
     <File>
-      <file_name>collection_compil.ast.albedos_document_inventory.csv</file_name>
+      <file_name>collection_go.ast.gaspra.colorcubes_document_inventory.csv</file_name>
       <local_identifier>document</local_identifier>
       <file_size unit="byte">124</file_size>
       <records>2</records>
